@@ -1,5 +1,5 @@
 <?php
-    class Gestors {
+    class GestorProducto {
         private $array = [];
         function Crear($nuevoIntegrante) {
             $this ->array[] = $nuevoIntegrante;
